@@ -4,10 +4,11 @@
                                                   ### Mohammad Ashique Usmani
 
 
-### You Know Me As A </br>   J̺͆A̺͆V̺͆A̺͆✿B̺͆A̺͆C̺͆K̺͆E̺͆N̺͆D̺͆✿D̺͆E̺͆V̺͆E̺͆L̺͆O̺͆P̺͆E̺͆R̺͆︵
+### You Know Me As A </br> </br>   J̺͆A̺͆V̺͆A̺͆✿B̺͆A̺͆C̺͆K̺͆E̺͆N̺͆D̺͆✿D̺͆E̺͆V̺͆E̺͆L̺͆O̺͆P̺͆E̺͆R̺͆︵
 
 
-### First Achievement Got In 2020 </br>🅱🅰🅲🅷🅴🅻🅾🆁 🅾🅵 🅴🅽🅶🅸🅽🅴🅴🆁🅸🅽🅶 (🅸🅽🅵🅾🆁🅼🅰🆃🅸🅾🅽 🆃🅴🅲🅷🅽🅾🅻🅾🅶🆈)
+### First Achievement Got In 2020 </br>
+</br> 🅱🅰🅲🅷🅴🅻🅾🆁 🅾🅵 🅴🅽🅶🅸🅽🅴🅴🆁🅸🅽🅶 (🅸🅽🅵🅾🆁🅼🅰🆃🅸🅾🅽 🆃🅴🅲🅷🅽🅾🅻🅾🅶🆈)
                                                 ( ShriRam Institute Of Technology)
                                                             7.5 🅲🅶🅿🅰
                                                                     
