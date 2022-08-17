@@ -4,19 +4,19 @@
                                                     MཽOཽHཽAཽMཽMཽAཽDཽ    AཽSཽHཽIཽQཽUཽEཽ     UཽSཽMཽAཽNཽIཽ 
 
 
-You Know Me As A &nbsp; &nbsp; &nbsp; &nbsp;                                          J̺͆A̺͆V̺͆A̺͆✿B̺͆A̺͆C̺͆K̺͆E̺͆N̺͆D̺͆✿D̺͆E̺͆V̺͆E̺͆L̺͆O̺͆P̺͆E̺͆R̺͆︵
+### You Know Me As A &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     J̺͆A̺͆V̺͆A̺͆✿B̺͆A̺͆C̺͆K̺͆E̺͆N̺͆D̺͆✿D̺͆E̺͆V̺͆E̺͆L̺͆O̺͆P̺͆E̺͆R̺͆︵
 
 
-First Achievement Got In 2020            🅱🅰🅲🅷🅴🅻🅾🆁 🅾🅵 🅴🅽🅶🅸🅽🅴🅴🆁🅸🅽🅶 (🅸🅽🅵🅾🆁🅼🅰🆃🅸🅾🅽 🆃🅴🅲🅷🅽🅾🅻🅾🅶🆈)
-                                                          ( ShriRam Institute Of Technology)
-                                                                    7.5 🅲🅶🅿🅰
+### First Achievement Got In 2020 &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🅱🅰🅲🅷🅴🅻🅾🆁 🅾🅵 🅴🅽🅶🅸🅽🅴🅴🆁🅸🅽🅶 (🅸🅽🅵🅾🆁🅼🅰🆃🅸🅾🅽 🆃🅴🅲🅷🅽🅾🅻🅾🅶🆈)
+    &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ( ShriRam Institute Of Technology)
+    &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           7.5 🅲🅶🅿🅰
                                                                     
                                                                     
-Currently Going through                                1200hr.❤️Coding  at  🅼🅰🆂🅰🅸╰❥🆂🅲🅷🅾🅾🅻︵ᵏ¹²
+### Currently Going through &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    1200hr.❤️Coding  at  🅼🅰🆂🅰🅸╰❥🆂🅲🅷🅾🅾🅻︵ᵏ¹²
 
-Awards                                               🅆🄾🄽 🄼🄾🅁🄴 🅃🄷🄰🄽 3 🅂🄲🄸🄴🄽🄲🄴 🅆🄾🅁🄺🄸🄽🄶 🄼🄾🄳🄴🄻 🄰🅆🄰🅁🄳🅂
+### Awards   &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🅆🄾🄽 🄼🄾🅁🄴 🅃🄷🄰🄽 3 🅂🄲🄸🄴🄽🄲🄴 🅆🄾🅁🄺🄸🄽🄶 🄼🄾🄳🄴🄻 🄰🅆🄰🅁🄳🅂
 
-Interest                                             Web Development and Ethical Hacking 
+### Interest   &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Web Development and Ethical Hacking 
 
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42px"> Languages Known:
