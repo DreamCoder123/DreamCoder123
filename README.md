@@ -1,15 +1,15 @@
 ### Hi..  👋
             This is..
                                                       
-                                                  ##  𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝 𝐀𝐬𝐡𝐢𝐪𝐮𝐞 𝐔𝐬𝐦𝐚𝐧𝐢
+                                                  ####Mohammad Ashique Usmani
 
 
 ### You Know Me As A &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     J̺͆A̺͆V̺͆A̺͆✿B̺͆A̺͆C̺͆K̺͆E̺͆N̺͆D̺͆✿D̺͆E̺͆V̺͆E̺͆L̺͆O̺͆P̺͆E̺͆R̺͆︵
 
 
 ### First Achievement Got In 2020 &nbsp;&nbsp; &nbsp; 🅱🅰🅲🅷🅴🅻🅾🆁 🅾🅵 🅴🅽🅶🅸🅽🅴🅴🆁🅸🅽🅶 (🅸🅽🅵🅾🆁🅼🅰🆃🅸🅾🅽 🆃🅴🅲🅷🅽🅾🅻🅾🅶🆈)
-      </center> ( ShriRam Institute Of Technology)
-       </center>      7.5 🅲🅶🅿🅰
+     ( ShriRam Institute Of Technology)
+          7.5 🅲🅶🅿🅰
                                                                     
                                                                     
 ### Currently Going through &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    1200hr.❤️Coding  at  🅼🅰🆂🅰🅸╰❥🆂🅲🅷🅾🅾🅻︵ᵏ¹²
