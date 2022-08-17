@@ -1,8 +1,6 @@
 ### Hi..  👋
             This is..
-                                    <h1 align = "center"><img src="https://emojis.slackmojis.com/emojis/images/1623587399/44665/kirby_hi.gif?1623587399" width="55px"> Ciao, I'm Ashique! </h1>
-            
-                                                                                       
+                                                      
                                                     MཽOཽHཽAཽMཽMཽAཽDཽ    AཽSཽHཽIཽQཽUཽEཽ     UཽSཽMཽAཽNཽIཽ 
 
 
@@ -65,9 +63,8 @@ IDE Used
 
 ## <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px">Lets Connect!
             
-<code><a href="https://www.linkedin.com/in/ashique-usmani-72133014b/"><img width="45px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
-            
-<code><a href="mailto:mohammedashique127@gmail.com"><img width="43px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
+<code><a href="https://www.linkedin.com/in/ashique-usmani-72133014b/"><img width="45px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a>      
+<a href="mailto:mohammedashique127@gmail.com"><img width="43px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
 
 <br>
 
