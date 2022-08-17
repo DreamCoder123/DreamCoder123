@@ -7,17 +7,17 @@
 ### You Know Me As A <div align="center"> J̺͆A̺͆V̺͆A̺͆✿B̺͆A̺͆C̺͆K̺͆E̺͆N̺͆D̺͆✿D̺͆E̺͆V̺͆E̺͆L̺͆O̺͆P̺͆E̺͆R̺͆︵</div>
 
 
-### First Achievement Got In 2020 </br>
-</br> 🅱🅰🅲🅷🅴🅻🅾🆁 🅾🅵 🅴🅽🅶🅸🅽🅴🅴🆁🅸🅽🅶 (🅸🅽🅵🅾🆁🅼🅰🆃🅸🅾🅽 🆃🅴🅲🅷🅽🅾🅻🅾🅶🆈) </br>
-                                                ( ShriRam Institute Of Technology) </br>
-                                                            7.5 🅲🅶🅿🅰
+### First Achievement Got In 2020 
+<div align="center"> 🅱🅰🅲🅷🅴🅻🅾🆁 🅾🅵 🅴🅽🅶🅸🅽🅴🅴🆁🅸🅽🅶 (🅸🅽🅵🅾🆁🅼🅰🆃🅸🅾🅽 🆃🅴🅲🅷🅽🅾🅻🅾🅶🆈) </div>
+<div align="center">( ShriRam Institute Of Technology) </div>
+<div align="center">7.5 🅲🅶🅿🅰</div>
                                                                     
                                                                     
-### Currently Going through &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    1200hr.❤️Coding  at  🅼🅰🆂🅰🅸╰❥🆂🅲🅷🅾🅾🅻︵ᵏ¹²
+### Currently Going through <div align="center">  1200hr.❤️Coding  at  🅼🅰🆂🅰🅸╰❥🆂🅲🅷🅾🅾🅻︵ᵏ¹²</div>
 
-### Awards   &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🅆🄾🄽 🄼🄾🅁🄴 🅃🄷🄰🄽 3 🅂🄲🄸🄴🄽🄲🄴 🅆🄾🅁🄺🄸🄽🄶 🄼🄾🄳🄴🄻 🄰🅆🄰🅁🄳🅂
+### Awards  <div align="center"> 🅆🄾🄽 🄼🄾🅁🄴 🅃🄷🄰🄽 3 🅂🄲🄸🄴🄽🄲🄴 🅆🄾🅁🄺🄸🄽🄶 🄼🄾🄳🄴🄻 🄰🅆🄰🅁🄳🅂 </div>
 
-### Interest   &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Web Development and Ethical Hacking 
+### Interest   <div align="center">  Web Development and Ethical Hacking </div>
 
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42px"> Languages Known:
