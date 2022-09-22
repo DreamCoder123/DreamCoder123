@@ -8,7 +8,8 @@
 
 ### You Know Me As A <div align="center"> J̺͆A̺͆V̺͆A̺͆✿B̺͆A̺͆C̺͆K̺͆E̺͆N̺͆D̺͆✿D̺͆E̺͆V̺͆E̺͆L̺͆O̺͆P̺͆E̺͆R̺͆︵</div>
 
-Check My Portfolio Here:-  https://ashiqueportfolio1.netlify.app/
+CheckOut My Portfolio Here:-  https://ashiqueportfolio1.netlify.app/
+CheckOut My LinkedIn Here:-  https://www.linkedin.com/in/ashique-usmani-72133014b/
 
 ### First Achievement Got In 2020 
 <div align="center"> 🅱🅰🅲🅷🅴🅻🅾🆁 🅾🅵 🅴🅽🅶🅸🅽🅴🅴🆁🅸🅽🅶 (🅸🅽🅵🅾🆁🅼🅰🆃🅸🅾🅽 🆃🅴🅲🅷🅽🅾🅻🅾🅶🆈) </div>
@@ -22,6 +23,7 @@ Check My Portfolio Here:-  https://ashiqueportfolio1.netlify.app/
 
 ### Interest   <div align="center">  Web Development and Ethical Hacking </div>
 
+### Hobbies  <div align="center">  Watching Cricket</div>
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42px"> Languages Known:
 
