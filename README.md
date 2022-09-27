@@ -23,8 +23,8 @@ Checkout Resume Here:- https://drive.google.com/file/d/1nwedgUGcr8XNbuHD0mFLSZjU
 ### Currently Going through <div align="center"> <h2> 1200Hr. Of Coding At Masai <h2></div>
 
 ### Awards  <div align="center">
-   <h4>Automatic Street Light (Science Exhibition)</h4>
-   <h4>Accident Protection Car (Science Exhibition)</h4>
+   <center><h4>Automatic Street Light (Science Exhibition)</h4><center>
+   <center><h4>Accident Protection Car (Science Exhibition)</h4><center>
 </div>
 
 ### Interest   <div align="center">  Web Development and Ethical Hacking </div>
