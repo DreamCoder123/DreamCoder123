@@ -12,15 +12,19 @@ CheckOut My Portfolio Here:-  https://ashiqueportfolio1.netlify.app/ <br>
 
 CheckOut My LinkedIn Here:-  https://www.linkedin.com/in/ashique-usmani-72133014b/
 
-### First Achievement Got In 2020 
-<div align="center"> 🅱🅰🅲🅷🅴🅻🅾🆁 🅾🅵 🅴🅽🅶🅸🅽🅴🅴🆁🅸🅽🅶 (🅸🅽🅵🅾🆁🅼🅰🆃🅸🅾🅽 🆃🅴🅲🅷🅽🅾🅻🅾🅶🆈) </div>
-<div align="center">( ShriRam Institute Of Technology) </div>
-<div align="center">7.5 🅲🅶🅿🅰</div>
-                                                                    
-                                                                    
-### Currently Going through <div align="center">  1200hr.❤️Coding  at  🅼🅰🆂🅰🅸╰❥🆂🅲🅷🅾🅾🅻︵ᵏ¹²</div>
+Checkout Resume Here:- https://drive.google.com/file/d/1nwedgUGcr8XNbuHD0mFLSZjUPM6OxAu3/view?usp=sharing
 
-### Awards  <div align="center"> 🅆🄾🄽 🄼🄾🅁🄴 🅃🄷🄰🄽 3 🅂🄲🄸🄴🄽🄲🄴 🅆🄾🅁🄺🄸🄽🄶 🄼🄾🄳🄴🄻 🄰🅆🄰🅁🄳🅂 </div>
+### First Achievement Got In 2020 
+<div align="center"> <h3>Bachelor Of Engineering (Information Technology) </div>
+<div align="center">( ShriRam Institute Of Technology) </div>
+<div align="center"><h4>7.5 CGPA <h4></div>
+                                                                    
+                                                                    
+### Currently Going through <div align="center"> <h2> 1200Hr. Of Coding At Masai <h2></div>
+
+### Awards  <div align="center"><span> Automatic Street Light (Science Exhibition)</span> 
+<span> Accident Protection Car (Science Exhibition)</span> 
+</div>
 
 ### Interest   <div align="center">  Web Development and Ethical Hacking </div>
 
