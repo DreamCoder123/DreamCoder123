@@ -49,13 +49,9 @@
 ### Currently Going through <div align="center"> <h2> 1200Hr. Of Coding At Masai <h2></div>
 
 ### Awards  <div align="center">
-   <center><h4>Automatic Street Light (Science Exhibition)</h4><center>
-   <center><h4>Accident Protection Car (Science Exhibition)</h4><center>
+  <h4>Automatic Street Light (Science Exhibition)</h4>
+  <h4>Accident Protection Car (Science Exhibition)</h4>
 </div>
-
-### Interest   <div align="center">  Web Development and Ethical Hacking </div>
-
-### Hobbies  <div align="center">  Watching Cricket</div>
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42px"> Languages Known:
 
@@ -90,13 +86,18 @@
   <a href="https://www.linkedin.com/in/ashique-usmani-72133014b/"> 
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-</div>
-
-
-   
+</div>   
    
 <br />
-                 
+
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=DreamCoder123&theme=react&hide_border=false&include_all_commits=true&count_private=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=DreamCoder123&theme=react&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamCoder123&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+    
+    
 
 ## <img src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="50px">My Coding Profiles!
 
