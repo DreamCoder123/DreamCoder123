@@ -16,7 +16,7 @@
 
 🌐 Some technologies that I love to working with ☕ Java ,mysql and frontend tech like  📜 JavaScript.
 
-🚀 I can write code on https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png   VSCODE/INTELLIJ/STS/CODEBLOCKS and Other IDE's.
+🚀 I can write code on VSCODE/INTELLIJ/STS/CODEBLOCKS and Other IDE's.
 
 🔨 I used POSTMAN/LOMBOK.
 
