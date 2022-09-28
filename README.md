@@ -4,15 +4,41 @@
     I'm Mohammad Ashique
     <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
 </h1>
+<h4 align="center">I'm a passionate Java developer skilled backend stack who always keen to learn new technologies 😃. I focuses on writing clean, and efficient code  team leading capabilities ✨.</h4>
+
 
 
 ### You Know Me As A <div align="center"> J̺͆A̺͆V̺͆A̺͆✿B̺͆A̺͆C̺͆K̺͆E̺͆N̺͆D̺͆✿D̺͆E̺͆V̺͆E̺͆L̺͆O̺͆P̺͆E̺͆R̺͆︵</div>
 
-CheckOut My Portfolio Here:-  https://ashiqueportfolio1.netlify.app/ <br>
 
-CheckOut My LinkedIn Here:-  https://www.linkedin.com/in/ashique-usmani-72133014b/
 
-Checkout Resume Here:- https://drive.google.com/file/d/1nwedgUGcr8XNbuHD0mFLSZjUPM6OxAu3/view?usp=sharing
+🌍 I'm from Madhya-Pradesh, India
+
+🌐 Some technologies that I love to working with ☕ Java ,mysql and frontend tech like  📜 JavaScript.
+
+🚀 I can write code on https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png   VSCODE/INTELLIJ/STS/CODEBLOCKS and Other IDE's.
+
+🔨 I used POSTMAN/LOMBOK.
+
+🖥️ Operating System:- I loved to work with Windows but Flexible with Linux and Mac also.
+
+💾 Some Databases tech's that I loved is MYSQL/JPQL/Hibernate/JDBC/MAVEN.
+
+😃 My interest includes Ethical Hacking & Web Development.
+
+📧 Professional Email - mohammedashique127@gmail.com
+
+
+
+💼 Resume :- https://drive.google.com/file/d/1nwedgUGcr8XNbuHD0mFLSZjUPM6OxAu3/view?usp=sharing
+
+
+ 👨‍💻 Portfolio - [ashique-portolio-1.netlify.app](https://ashiqueportfolio1.netlify.app/)
+
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashique-usmani-72133014b/) 
+
+
 
 ### First Achievement Got In 2020 
 <div align="center"> <h3>Bachelor Of Engineering (Information Technology) </div>
