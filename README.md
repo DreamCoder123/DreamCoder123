@@ -18,7 +18,7 @@
 
 🚀 I can write code on VSCODE/INTELLIJ/STS/CODEBLOCKS and Other IDE's.
 
-🔨 I used POSTMAN/LOMBOK.
+🔨 I used POSTMAN/LOMBOK and SWAGGER UI.
 
 🖥️ Operating System:- I loved to work with Windows but Flexible with Linux and Mac also.
 
