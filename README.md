@@ -34,6 +34,11 @@
 
 
  👨‍💻 Portfolio - [ashique-portolio-1.netlify.app](https://ashiqueportfolio1.netlify.app/)
+ 
+ 
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DreamCoder123" alt="DreamCoder123" /></a> </p>
+ 
+ 
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashique-usmani-72133014b/) 
