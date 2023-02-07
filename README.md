@@ -8,7 +8,7 @@
 
 
 
-### You Know Me As A <div align="center"> J̺͆A̺͆V̺͆A̺͆✿B̺͆A̺͆C̺͆K̺͆E̺͆N̺͆D̺͆✿D̺͆E̺͆V̺͆E̺͆L̺͆O̺͆P̺͆E̺͆R̺͆︵</div>
+### You Know Me As A <div align="center"> <h1> Java Backend Developer </h1> </div>
 
 
 
